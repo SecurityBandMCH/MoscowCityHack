@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "276818737363",
+    "project_id": "ig-superchat",
+    "storage_bucket": "ig-superchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276818737363:android:990be08ddd79651af67c26",
+        "android_client_info": {
+          "package_name": "com.igrogood.superchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276818737363-hcjvq2j9sci6cod95b1dkchr20ldk365.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.igrogood.superchat",
+            "certificate_hash": "cb0fe3aa10b5219b3e2343be3325bc04178aebba"
+          }
+        },
+        {
+          "client_id": "276818737363-bt233cgo1q9cei8pqj8mqb1tm362hlr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAU0-to9vCuPYPN46A506Ovm-rlvZ6y8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276818737363-bt233cgo1q9cei8pqj8mqb1tm362hlr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
